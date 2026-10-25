@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="logo.png" width="120" />
-  <h1>Project Name</h1>
+  <h1>LeetcodeSolution</h1>
   <p>写的leetcode解法,记录刷题</p>
 
-  [![Build](badge-url)](link)
-  [![Version](badge-url)](link)
-  [![License](badge-url)](link)
+
 </div>
 
 ![Demo](demo.gif)
